@@ -1,6 +1,7 @@
 # Coterie
 
-Check out the <a href="https://youtu.be/nC7PQP0Lf2o"> demo here </a> 🎬
+* <a href="https://guarded-escarpment-91959.herokuapp.com/">Live Demo on Heroku </a> 🌎
+* <a href="https://youtu.be/nC7PQP0Lf2o"> YouTube demo </a> 🎬
 
 Coterie is a web application that allows users to host and join virtual meetings to connect people with shared interests.	The inspiration of this app came during the time of COVID where it was difficult for people to gather in-person. Coterie provides a safe space to still meet new people and stay connected.	
 The word *Coterie*  means a small group of people with shared interests or tastes.	The word *Coterie* means a small group of people with shared interests or tastes.
